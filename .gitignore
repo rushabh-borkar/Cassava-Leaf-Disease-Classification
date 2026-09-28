@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
