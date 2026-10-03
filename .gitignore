@@ -1,15 +1,21 @@
-# Virtual environments
-.venv/
-.venv312/
-venv/
-env/
-
 # Dataset
 data/
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
 
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
 # IDE
 .idea/
+
+# Model weights
+*.pth
+*.pt
+*.pkl
